@@ -62,8 +62,18 @@ The training step runs **only if the model does not already exist**.
 
 ## ▶️ How to Run
 
-### Install dependencies
-```bash
+ ## 📦 Dependencies
+
+This project requires the following Python libraries:
+
+- **pandas** – data loading and manipulation  
+- **numpy** – numerical operations  
+- **scikit-learn** – preprocessing pipelines and machine learning models  
+- **joblib** – model and pipeline serialization  
+
+Python version:
+- **Python 3.9+** (recommended)
+
 
 
 
